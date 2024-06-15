@@ -3,6 +3,9 @@ import time
 import random
 
 #I did this thing different
+# I did this too
+# This is different
+#
 
 #list = ["shift","soda","guitar","game","watch","water","teacher","student","bottle"]
 list = ["hello"]
